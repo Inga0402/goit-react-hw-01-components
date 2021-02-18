@@ -20,7 +20,7 @@
     border: 1px solid grey;
     padding: 20px;
     background-color: rgb(226, 43, 156);
-    color: rgb(255, 239, 220);
+    color: rgb(245, 241, 236);
   }
   .item:nth-child(2n) {
     background-color: rgb(76, 23, 173);
