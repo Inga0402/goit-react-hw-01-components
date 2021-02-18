@@ -19,11 +19,11 @@
     font-weight: 500;
     border: 1px solid grey;
     padding: 20px;
-    background-color: blueviolet;
-    color: cornsilk;
+    background-color: rgb(226, 43, 156);
+    color: rgb(255, 239, 220);
   }
   .item:nth-child(2n) {
-    background-color: cornflowerblue;
+    background-color: rgb(76, 23, 173);
   }
   .label {
     font-size: 16px;

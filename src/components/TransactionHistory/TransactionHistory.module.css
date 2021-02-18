@@ -8,7 +8,7 @@
   .transaction_name {
     border: 1px solid black;
     padding: 10px;
-    background-color: rgb(20, 211, 195);
+    background-color: rgb(13, 82, 173);
   }
   
   .transaction_type {
@@ -20,9 +20,9 @@
   }
   
   .transaction_row {
-    background-color: rgb(224, 238, 104);
+    background-color: rgb(212, 82, 115);
   }
   
   .transaction_row:nth-child(2n) {
-    background-color: rgb(248, 188, 233);
+    background-color: rgb(173, 47, 106);
   }
