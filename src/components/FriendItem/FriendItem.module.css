@@ -9,27 +9,24 @@
     margin-bottom: 10px;
   }
 
-  .status {
-    width: 10px;
-    height: 10px;
+  .span {
+    width: 20px;
+    height: 20px;
     border-radius: 50%;
     margin-right: 10px;
   }
-
-  .online {
-    composes: status;
-    background-color: rgb(12, 134, 12);
+  
+  .statusOnline {
+    composes: span;
+    background-color: green;
   }
   
-  .offline {
-    composes: status;
-    background-color: rgb(235, 12, 12);
+  .statusOffline {
+    composes: span;
+    background-color: red;
   }
   
   .avatar {
-    margin-left: 20px;
-  }
-  
-  .name {
-    margin-left: 20px;
+    border-radius: 4px;
+    margin-right: 10px;
   }
